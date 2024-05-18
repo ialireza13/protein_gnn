@@ -1,0 +1,14 @@
+Epoch: 0/100	Train Accuracy: 0.41	Test Accuracy: 0.41	*	Loss Train: 4729.73	Loss Test: 1182.75
+Epoch: 1/100	Train Accuracy: 0.80	Test Accuracy: 0.80	*	Loss Train: 1933.81	Loss Test: 490.49
+Epoch: 2/100	Train Accuracy: 0.84	Test Accuracy: 0.84	*	Loss Train: 1575.46	Loss Test: 407.70
+Epoch: 3/100	Train Accuracy: 0.87	Test Accuracy: 0.86	*	Loss Train: 1379.47	Loss Test: 367.22
+Epoch: 4/100	Train Accuracy: 0.88	Test Accuracy: 0.86	*	Loss Train: 1260.94	Loss Test: 348.60
+Epoch: 5/100	Train Accuracy: 0.89	Test Accuracy: 0.88	*	Loss Train: 1099.89	Loss Test: 325.68
+Epoch: 6/100	Train Accuracy: 0.90	Test Accuracy: 0.88	*	Loss Train: 1014.86	Loss Test: 312.14
+Epoch: 7/100	Train Accuracy: 0.91	Test Accuracy: 0.88	*	Loss Train: 946.23	Loss Test: 309.42
+Epoch: 8/100	Train Accuracy: 0.92	Test Accuracy: 0.89	*	Loss Train: 848.08	Loss Test: 298.15
+Epoch: 9/100	Train Accuracy: 0.93	Test Accuracy: 0.89	*	Loss Train: 780.12	Loss Test: 297.67
+Epoch: 10/100	Train Accuracy: 0.94	Test Accuracy: 0.90	*	Loss Train: 698.71	Loss Test: 298.52
+Epoch: 11/100	Train Accuracy: 0.94	Test Accuracy: 0.90	*	Loss Train: 651.01	Loss Test: 299.08
+Epoch: 12/100	Train Accuracy: 0.94	Test Accuracy: 0.90	*	Loss Train: 603.71	Loss Test: 309.45
+Epoch: 13/100	Train Accuracy: 0.95	Test Accuracy: 0.90	*	Loss Train: 546.11	Loss Test: 313.22
